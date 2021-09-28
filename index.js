@@ -110,7 +110,7 @@ function init() {
     inquirer.prompt(userQuestions).then(function (data) {
         const fileName = "README.md";
 
-        fs.writeFile(fileName, JSON.stringify(data, null, '\t'), (err) => {
+        fs.writeFile(fileName, markdownGenerator(data), (err) => {
             if (err) {
                 return console.log(err);
             }
