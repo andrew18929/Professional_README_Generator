@@ -1,58 +1,59 @@
-function markdownGenerator(data, gitHubInfo) {
+function markdownGenerator(data) {
     return `
-    # ${data.####}
+    # ${data.title}
     
     ## Description
-    ${data.####}
-    
-    ## Technologies Used
-    ${data.####}
+    ${data.description}
     
     ## Table of Contents
-    - [Installation](#...)
-    - [Instructions](#...)
-    - [Gif](#...)
-    - [Usage](#...)
-    - [Issues](#...)
-    - [Contributions](#...)
-    - [Test](#...)
-    - [License](#...)
-    - [GitHub](#...)
-    - [Repository Name](#...)
-    - [Email](#...)
+    - [Technologies Used](#technologies)
+    - [Installation](#installation)
+    - [Instructions](#instructions)
+    - [Gif](#gif)
+    - [Usage](#usage)
+    - [Issues](#issues)
+    - [Contributions](#contributions)
+    - [Test](#test)
+    - [License](#license)
+    - [GitHub](#github)
+    - [Repository Name](#repoName)
+    - [Email](#email)
+
+    ## Technologies Used
+    ${data.technologies}
     
     ## Installaion
-    ${data.####}
+    ${data.installation}
     
     ## Instructions
-    ${data.####}
+    ${data.instructions}
     
     ## Gif
-    ${data.####}
+    ${data.gif}
     
     ## Usage
-    ${data.####}
+    ${data.usage}
     
     ## Issues
-    ${data.####}
+    ${data.issues}
     
     ## Contributions
-    ${data.####}
+    ${data.contributions}
     
     ## Test
-    ${data.####}
+    ${data.test}
 
     ## License
-    ${data.####}
+    ${data.license}
     
     ## GitHub Info
-    ${data.####}
+    ${data.github}
     
     ## Repository Name
-    ${data.####}
+    ${data.repoName}
     
     ## Email
-    ${data.####}
+    ${data.email}
     
     `;
 }
