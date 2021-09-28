@@ -121,15 +121,3 @@ function init() {
 }
 
 init();
-// function init() {   
-// inquirer.prompt().then()
-
-// // fs.writeFile(), fucntion (err) {
-//     if (err) {
-//         throw err;
-//     } 
-//     console.log("readme file is good");
-// });
-// }
-
-// init ();

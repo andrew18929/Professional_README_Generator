@@ -1,4 +1,4 @@
-function markdownGenerator(data) {
+function markdownGenerator(data, fileName) {
     return `
     # ${data.title}
     
