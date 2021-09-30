@@ -1,8 +1,8 @@
 
-    # a;dslfjk
+    # Professional README Generator
     
     ## Description
-    a;dlsfkj
+    Professional README Generator allows a developer to create an good README file by answering a few questions.
     
     ## Table of Contents
     - [Technologies Used](#technologies)
@@ -19,39 +19,39 @@
     - [Email](#email)
 
     ## Technologies Used
-    HTML,CSS,JavaScript
+    JavaScript,NodeJS
     
     ## Installaion
-    a;ldskjf
+    npm init
     
     ## Instructions
-    asd;lfkj
+    Answer the questions that are prompted to you and a good README file will generate.
     
     ## Gif
-    asd'lkj
+    https://user-images.githubusercontent.com/87145391/135371634-6e995ba9-f042-4c80-b73f-c046a862beac.mp4
     
     ## Usage
-    asd;lfjk
+    To create a good README file so that a developer can focus on finishing their code and not worrying about creating a README file from scracth.
     
     ## Issues
-    asdlkjf
+    Contact me on GitHub or at my email provided below.
     
     ## Contributions
-    a'o4j09
+    No contributing parties. If you would like to contribute, contact me on GitHub or at my email provided below.
     
     ## Test
-    a;dsflj
+    None
 
     ## License
     MIT
     
     ## GitHub Info
-    alsdjf
+    andrew18929
     
     ## Repository Name
-    a;ksdf
+    https://github.com/andrew18929/Professional_README_Generator
     
     ## Email
-    w;lh
+    andrewmartinez6313@gmail.com
     
     
